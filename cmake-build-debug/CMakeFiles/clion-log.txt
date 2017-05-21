@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug add_definitions(-DDEBUG) -G "CodeBlocks - Unix Makefiles" /Users/macbook/Development/personal/udacity-car/term2/CarND-Unscented-Kalman-Filter-Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/macbook/Development/personal/udacity-car/term2/CarND-Unscented-Kalman-Filter-Project/cmake-build-debug
